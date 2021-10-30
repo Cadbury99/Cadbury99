@@ -2,6 +2,8 @@
 
 🌱 I’m currently learning how to code HTML and CSS. JS is next on deck but apparantly learning GitHub has moved up the chain in priorities.
 
+🤔 I’m looking for help with understanding how to work GitHub.
+
 ⚡ Fun fact: I am currently working as a jeweler. I have discovered after 18 years in the business that it's not enough to keep my brain occupied any longer.
 
 <!--
