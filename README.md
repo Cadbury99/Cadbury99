@@ -1,17 +1,12 @@
 ### Hi there 👋
 
+🌱 I’m currently learning how to code HTML and CSS. JS is next on deck but apparantly learning GitHub has moved up the chain in priorities.
+
+⚡ Fun fact: I am currently working as a jeweler. I have discovered after 18 years in the business that it's not enough to keep my brain occupied any longer.
+
 <!--
 **Cadbury99/Cadbury99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<html>
- 
-<body>
-  <h1>Laura Elizabeth</h1>
-  <p>Welcome to my website!</p>
-  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
-</body>
- 
-</html>
 
 Here are some ideas to get you started:
 
